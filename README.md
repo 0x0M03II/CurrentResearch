@@ -14,11 +14,11 @@ Helpful Sources:
 1. [Twitters Recommendation Algorithm](https://github.com/twitter/the-algorithm)
 2. [Modularity in Community Detection](https://www.pnas.org/doi/10.1073/pnas.0601602103)
 3. Louvain Method
-  - [Introduction](https://neo4j.com/docs/graph-data-science/current/algorithms/louvain/#:~:text=The%20Louvain%20method%20is%20an,assignment%20of%20nodes%20to%20communities)
-  - [TigerGraph](https://docs.tigergraph.com/graph-ml/current/community-algorithms/louvain)
-  - [Networkx - (Graph) Network Analysis](https://networkx.org/documentation/stable/)
-  - [Designing Algorithms](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-  - [ACM Digital Library](https://dl.acm.org/)
+    - [Introduction](https://neo4j.com/docs/graph-data-science/current/algorithms/louvain/#:~:text=The%20Louvain%20method%20is%20an,assignment%20of%20nodes%20to%20communities)
+    - [TigerGraph](https://docs.tigergraph.com/graph-ml/current/community-algorithms/louvain)
+    - [Networkx - (Graph) Network Analysis](https://networkx.org/documentation/stable/)
+    - [Designing Algorithms](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+    - [ACM Digital Library](https://dl.acm.org/)
 
 ## Speculative Parallel Execution in Blockchain
 
