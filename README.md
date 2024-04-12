@@ -9,6 +9,7 @@
 ## Graph Theory: Community Detection and Digital Organized Crime
 
 Description: This project will explore modifications to community detection algorithms to disrupt digital organized crime networks.
+
 Helpful Sources:
 1. [Twitters Recommendation Algorithm](https://github.com/twitter/the-algorithm)
 2. [Modularity in Community Detection](https://www.pnas.org/doi/10.1073/pnas.0601602103)
@@ -22,6 +23,7 @@ Helpful Sources:
 ## Speculative Parallel Execution in Blockchain
 
 Description: Investigating ways to reduce network congestion, latency, and transaction fees in blockchain using speculative parallel algorithms
+
 Helpful Sources:
 1. [ACM Digital Library](https://dl.acm.org/)
 2. [Medium Article presenting the problem](https://medium.com/movementlabsxyz/parallelization-a-fresh-perspective-on-blockchain-transactions-4d6c265ec57f)
@@ -30,6 +32,7 @@ Helpful Sources:
 ## Zero-Knowledge Proofs, Blockchain, and AML (Anti-Money Laundering)
 
 Description: Exploring methods to enhance AML practices within blockchain and cryptocurrency
+
 Helpful Sources:
 1. [Arvind Narayanan - Bitcoin Coursera](https://www.coursera.org/learn/cryptocurrency/)
 2. [A curated List of ZKPs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
@@ -37,6 +40,7 @@ Helpful Sources:
 
 ## Exploring the Rust and OCaml Compiler
 Description: Exploring and deciphering the Rust and OCaml compilers
+
 Helpful Sources:
 1. [Rust Compiler Documentation](https://rustc-dev-guide.rust-lang.org/overview.html)
 2. [Rust Compiler](https://github.com/rust-lang/rust)
