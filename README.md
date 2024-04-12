@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > Each project incorporates the skills I have obtained professionally, academically, and independently.  My research will be original, and all sources will be properly cited.
-> There are no current plans to profit financially from this research; however, if the results are compelling enough, I will explore the possibility of starting an open-source
+> There is no current plan to profit financially from this research; however, if the results are compelling enough, I will explore the possibility of starting an open-source
 > project.
 
 
