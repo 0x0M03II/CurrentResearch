@@ -9,6 +9,7 @@
 ## Graph Theory: Community Detection and Digital Organized Crime
 
 Description: This project will explore modifications to community detection algorithms to disrupt digital organized crime networks.
+Preview: A preview of what I'm working on can be found [here](https://github.com/0x0M03II/NetworkX-Texas-Roads). 
 
 Helpful Sources:
 1. [Twitters Recommendation Algorithm](https://github.com/twitter/the-algorithm)
